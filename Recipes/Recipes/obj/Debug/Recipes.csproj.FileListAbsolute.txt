@@ -1,0 +1,13 @@
+C:\Users\vvvva\source\repos\Recipes\Recipes\bin\Debug\Recipes.exe.config
+C:\Users\vvvva\source\repos\Recipes\Recipes\bin\Debug\Recipes.exe
+C:\Users\vvvva\source\repos\Recipes\Recipes\bin\Debug\Recipes.pdb
+C:\Users\vvvva\source\repos\Recipes\Recipes\bin\Debug\EntityFramework.dll
+C:\Users\vvvva\source\repos\Recipes\Recipes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vvvva\source\repos\Recipes\Recipes\bin\Debug\EntityFramework.xml
+C:\Users\vvvva\source\repos\Recipes\Recipes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vvvva\source\repos\Recipes\Recipes\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\vvvva\source\repos\Recipes\Recipes\obj\Debug\Recipes.csprojAssemblyReference.cache
+C:\Users\vvvva\source\repos\Recipes\Recipes\obj\Debug\Recipes.csproj.CoreCompileInputs.cache
+C:\Users\vvvva\source\repos\Recipes\Recipes\obj\Debug\Recipes.csproj.CopyComplete
+C:\Users\vvvva\source\repos\Recipes\Recipes\obj\Debug\Recipes.exe
+C:\Users\vvvva\source\repos\Recipes\Recipes\obj\Debug\Recipes.pdb
